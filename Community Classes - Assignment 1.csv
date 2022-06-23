@@ -1,0 +1,19 @@
+,C Language Live Community Classes Assignment 1,
+Q. No.,Question,Answer
+1,Why do computers understand only binary language?,"Because computer's memory consists of transistors which only work on voltage, it takes only ON and OFF input signals"
+2,What is the full form of IDE?,Integrated development environment
+3,What is the difference between a text editor and a code editor?,"A text editor helps in writing texts/ making documents, but code editor has enhanced option in it like it helps you to write code quickly. Code editor also have multiple features as well."
+4,What are the steps to develop software using the C language?,"1. Download & Install Code Editor
+2. Download & Install Complier
+3. Make a source file(.C) in a project
+4. Link with a library
+5. Build, Run & Debug the Code"
+5,Explore by your own,
+a,What is the latest version of C Language?,C17
+b,Who developed C Language?,Dennis Ritchie
+c,What is the difference between System and Application Software?,"System software acts as the interface between the application software and hardware of the computer system. Whereas, the application software acts as an interface between the system software and the end-user"
+d,How to convert a number from a decimal number system to a binary number system?,"1. Divide the decimal number by 2.
+2. If the number will not divide equally by 2, then round down the answer to the nearest whole number (integer).
+3. Keep a note of the remainder, it should be either 0 or 1.
+4. Keep repeating the above steps, dividing each answer by 2, until you reach zero.
+5. Write out all the remainders, from bottom to top.  This is your binary solution."
